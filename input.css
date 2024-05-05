@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* :root{
+    --bg-color: rgb(101, 25, 178);
+    --border-color: gray;
+    --text-color: red;
+}
+
+body{
+    background: var(--bg-color);
+    color: var(--text-color);
+} */
